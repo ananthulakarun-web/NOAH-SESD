@@ -1,0 +1,21 @@
+{
+  "name": "resume-ai-workspace",
+  "version": "1.0.0",
+  "description": "ResumeAI — AI-Powered ATS Resume Analyzer (Full-Stack Web Application)",
+  "scripts": {
+    "dev:backend": "cd backend && npm start",
+    "dev:frontend": "cd frontend && npm run dev",
+    "install:all": "cd backend && npm install && cd ../frontend && npm install"
+  },
+  "keywords": [
+    "resume-analyzer",
+    "ats",
+    "react",
+    "nodejs",
+    "mongodb",
+    "vite",
+    "express"
+  ],
+  "author": "B.Tech Computer Science Engineering",
+  "license": "MIT"
+}
